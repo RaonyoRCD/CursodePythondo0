@@ -1,0 +1,6 @@
+
+Testando o primeiro Write
+Este é o segundo write que escrevo
+
+*** Se eu quiser, eu posso deletar este arquivo e mandar este código cria-lo novamente ao executá-lo. ***
+
